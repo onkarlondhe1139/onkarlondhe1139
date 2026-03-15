@@ -20,6 +20,8 @@ Hi there 👋
 
 📬 How to reach me: **[onkarlondhe1139@gmail.com](mailto:onkarlondhe1139@gmail.com)**
 
+🔗 LinkedIn: **[https://www.linkedin.com/in/onkarlondhe1139/]**
+
 😄 Pronouns: **he/him**
 
 ⚡ Fun fact: **Behind the lens as a Photographer 📷 and passionate about turning data into meaningful insights 📊**
