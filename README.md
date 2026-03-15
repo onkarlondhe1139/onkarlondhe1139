@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**onkarlondhe1139/onkarlondhe1139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ I'm currently studying Computer Engineering at **S.B. Patil College of Engineering, Indapur, Pune**
 
-Here are some ideas to get you started:
+🌱 Currently learning and building projects in **Data Analytics, Data Science, AI/ML, and Cloud (AWS)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Skilled in **Data Analysis, Dashboard Development, and Data Visualization** using **Power BI, Advanced Excel, and Python**
+
+💻 Programming Languages: **Python, SQL, JavaScript (Basic)**
+
+🛠️ Tools & Technologies: **Power BI, Microsoft Excel, Power Query, GitHub, Jupyter Notebook, VS Code**
+
+☁️ Exploring **AWS Cloud, AI-driven solutions, and real-world data analytics projects**
+
+🧑‍🤝‍🧑 Open to collaborating on **Data Analytics, AI/ML, Data Science, Python, and Cloud-based projects**
+
+🧑‍🏫 Seeking guidance on **real-world Data Analytics, Machine Learning, and Business Intelligence projects**
+
+❓ Ask me about: **Data Analytics, Advanced Excel, SQL, Power BI, Python, and Data Visualization**
+
+📬 How to reach me: **[onkarlondhe1139@gmail.com](mailto:onkarlondhe1139@gmail.com)**
+
+😄 Pronouns: **he/him**
+
+⚡ Fun fact: **Behind the lens as a Photographer 📷 and passionate about turning data into meaningful insights 📊**
