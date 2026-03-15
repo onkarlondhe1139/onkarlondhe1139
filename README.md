@@ -1,5 +1,7 @@
 Hi there 👋
 
+### 🚀 Aspiring Data Analyst | Data Science Enthusiast 
+
 🛠️ I'm currently studying Computer Engineering at **S.B. Patil College of Engineering, Indapur, Pune**
 
 🌱 Currently learning and building projects in **Data Analytics, Data Science, AI/ML, and Cloud (AWS)**
