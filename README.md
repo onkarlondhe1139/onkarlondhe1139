@@ -1,6 +1,6 @@
 Hi there 👋
 
-### Aspiring Data Analyst | Data Science Enthusiast | Qualified GATE 2026 in CS
+### Aspiring Data Analyst | Data Science Enthusiast | AI/ML
 
 🛠️ I'm currently studying Computer Engineering at **S.B. Patil College of Engineering, Indapur, Pune**
 
