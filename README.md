@@ -1,6 +1,6 @@
 Hi there 👋
 
-### Aspiring Data Analyst | Data Science Enthusiast | AI/ML
+### Data Analyst | Junior Data Science | AI/ML
 
 🛠️ I'm currently studying *Master of Technology in Data Science* at **Walchand College of Engineering, Sangli**
 
