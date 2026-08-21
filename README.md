@@ -24,6 +24,8 @@ Hi there 👋
 
 🔗 LinkedIn: **https://www.linkedin.com/in/onkarlondhe1139**
 
+🌐 **Portfolio:** [View My Data Analytics Portfolio](https://onkarlondhe-analytics-portfolio.netlify.app/)
+
 😄 Pronouns: **he/him**
 
 ⚡ Fun fact: **Behind the lens as a Photographer 📷 and passionate about turning data into meaningful insights 📊**
